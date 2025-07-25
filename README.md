@@ -8,10 +8,7 @@ This PowerShell script disables the new Outlook toggle feature in Microsoft Outl
 
 - Applies the setting for all users on the machine (HKLM registry)
 - Checks if the settings are already applied and notifies
-- Prompts for confirmation before force closing Office apps
-- Force closes all Office apps if confirmed
-- Displays status messages for each step
-
+- Force closes all Office apps
 ---
 
 ## Usage
